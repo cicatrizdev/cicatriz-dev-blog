@@ -1,6 +1,9 @@
 {
-  "name": "blog-starter",
+  "name": "cicatriz-dev-blog",
+  "description": "My personal blog, using Next.js and Markdown",
+  "homepage": "https://blog.cicatriz.dev",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -14,11 +17,21 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "remark": "11.0.2",
-    "remark-html": "10.0.0"
+    "remark-html": "10.0.0",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrocmello/cicatriz-dev-blog.git"
+  },
+  "author": {
+    "name": "Pedro Mello",
+    "email": "contato@cicatriz.dev",
+    "url": "https://cicatriz.dev"
   },
   "license": "MIT"
 }
