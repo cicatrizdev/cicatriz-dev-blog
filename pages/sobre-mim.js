@@ -1,4 +1,5 @@
 import Head from "next/head";
+import About from "../components/about";
 import Container from "../components/container";
 import Header from "../components/header";
 import Layout from "../components/layout";
@@ -16,9 +17,7 @@ const Sobre = () => {
                   Sobre mim | Cicatriz.DEV
                 </title>
               </Head>
-              <div>
-                SOU EU CARAI
-              </div>
+              <About />
             </article>
           </>
       </Container>
