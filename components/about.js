@@ -4,7 +4,7 @@ export const RoundImg = styled.img`
   border-radius: 100px
 `;
 
-const whatsappApi = "https://api.whatsapp.com/send?phone=5532999255105&text=Fala%2C%20Cicatriz%21%20Tudo%20bem%3F%20Estou%20entrando%20em%20contato%20pelo%20bot%C3%A3o%20do%20seu%20site";
+const whatsappApi = "https://api.whatsapp.com/send?phone=5532999255105&text=Fala%2C+Cicatriz%21+Estou+entrando+em+contato+atrav%C3%A9s+do+seu+site.";
 
 const About = () => (
   <div 
@@ -34,7 +34,7 @@ const About = () => (
       </p>
 
       <p className="pt-8 text-sm">
-        Totally optional short description about yourself, what you do and so on.
+        :)
       </p>
 
       <div className="pt-12 pb-8 flex items-center justify-center">

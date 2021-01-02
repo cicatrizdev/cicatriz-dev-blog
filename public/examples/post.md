@@ -5,7 +5,7 @@ coverImage: '/assets/blog/POST/cover.jpg'
 date: 'YYYY-MM-DD'
 author:
   name: Pedro Mello
-  picture: '/assets/blog/authors/cicatriz_author.jpg'
+  picture: '/assets/blog/authors/cicatriz.jpg'
 ogImage:
   url: '/assets/blog/POST/cover.jpg'
 ---

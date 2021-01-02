@@ -5,7 +5,7 @@ coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16'
 author:
   name: Pedro Mello
-  picture: '/assets/blog/authors/cicatriz_author.jpg'
+  picture: '/assets/blog/authors/cicatriz.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
